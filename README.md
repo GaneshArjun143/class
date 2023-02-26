@@ -1,2 +1,2 @@
 # class
-class remote repository desc
+class remote repository description updated
